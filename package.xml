@@ -9,13 +9,13 @@
         <members>DeepField</members>
         <name>ApexPage</name>
     </types>
-    <types>
+    <!--types>
         <members>DeepField</members>
         <name>CustomApplication</name>
     </types>
     <types>
         <members>DeepField</members>
         <name>CustomTab</name>
-    </types>
+    </types-->
     <version>37.0</version>
 </Package>
